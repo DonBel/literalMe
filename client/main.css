@@ -3,6 +3,17 @@ body {
   font-family: sans-serif;
 }
 
+.image {
+  width: 338px;
+  height: 225px;
+  /*clip: rect(0px,60px,200px,0px);*/
+}
+
+.image2 {
+  width: 100%;
+  height: 100%;
+}
+
 .jumbotron {
   padding-top: 3rem;
   padding-bottom: 3rem;
